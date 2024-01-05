@@ -1,3 +1,7 @@
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
+
 ### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baldo8.baldo8" />
 <h1 align="center">
