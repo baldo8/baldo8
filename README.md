@@ -50,7 +50,7 @@
 
 <hr/>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-baldo8.vercel.app/api?username=baldo8&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-baldo8.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
   
